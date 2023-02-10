@@ -47,7 +47,7 @@ seed phase for news title generation
 
 output
 ```
-    ට්රම්ප් නවසීලන්තයට යයි ඡායාරූප සහිතයි
+    ට්‍රම්ප් නවසීලන්තයට යයි ඡායාරූප සහිතයි
 ```
 
 seed phase for poem generation
